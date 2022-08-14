@@ -1,21 +1,27 @@
-### Hi there 👋
-
+## Faaaala dev, Saraiva Aqui ✌!!!
 
 <div>
-
-<a href="https://github.com/Saraiva97">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=cayman&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=compact&langs_count=7&theme=cayman"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-   
+<br>
+
+<div  align="center"> 
   <div style="display: inline_block"><br>
-   <img align="center" alt="filipe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="filipe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="filipe-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="filipe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="filipe-android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
-   <img align="center" alt="filipe-c+" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-  <img align="center" alt="filipe-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+    <img align="left" height="250" alt="coding-time" src="imagem git2.gif">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   </div>
+    <h1>👇 MEU PORTIFOLIO 👇  </h1> 
+   👉 https://saraiva97.github.io/ 👈
+ 
+ ![Snake animation](https://github.com/Saraiva97/Saraiva97/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
