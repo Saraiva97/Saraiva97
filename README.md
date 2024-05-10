@@ -1,3 +1,4 @@
+<div style="background-color:blue">
 ## Faaaala dev, Saraiva Aqui ✌!!!
 
 <div>
@@ -23,5 +24,5 @@
  ![Snake animation](https://github.com/Saraiva97/Saraiva97/blob/output/github-contribution-grid-snake.svg)
 
 
-
+</div>
 
