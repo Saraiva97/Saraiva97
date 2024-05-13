@@ -33,7 +33,7 @@
     
 </div>
 
-# Estudando
+**Estudando**
 
 
 [![My Skills](https://skillicons.dev/icons?i=cs,php,java,mysql&theme=dark)](https://skillicons.dev)
