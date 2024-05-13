@@ -27,7 +27,7 @@
 
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: block"><br>
     <h2 align="left">-------------------------------------------------------------------</h2>
     
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
