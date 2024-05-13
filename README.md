@@ -24,12 +24,10 @@
   
 <div  align="center"> 
   <div style="display: inline_block">
-  #h
-    
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
 
    </div>
   
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
 
 
 <div  align="center"> 
