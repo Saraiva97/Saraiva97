@@ -23,7 +23,7 @@
   
 <div  align="center"> 
   <div style="display: inline_block">
-      <br>
+<br>
     
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
 
