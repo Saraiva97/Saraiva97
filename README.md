@@ -23,11 +23,11 @@
 
   
 <div  align="center"> 
-  <div style="display: inline_block"> 
+  <div style="display: inline_block"> </div>
   
-  </div>
+ </div>
 
-   </div>
+ # Faaaala dev, Saraiva Aqui ✌!!!
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
 
