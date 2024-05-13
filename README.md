@@ -35,10 +35,9 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="left">Estudando <3</h1>
+    <h1 align="left">Estudando </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,cs,php,java,mysql&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cs,php,java,mysql&theme=dark)](https://skillicons.dev)
 
    </div>
 
