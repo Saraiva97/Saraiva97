@@ -20,18 +20,16 @@
 
 <img align="left" height="125em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby"/>
 
-
-  
 <div  align="center"> 
   <div style="display: inline_block"> </div>
   
  </div>
 
-  <h1 align="center"> melhores tecnologias</h1>
+  <h1 align="center"> Melhores Tecnologias</h1>
 
-  
+<div  align="center">   
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
-
+</div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
