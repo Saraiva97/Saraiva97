@@ -18,7 +18,7 @@
 
 </div>
 
-<img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby"/>
+<img align="left" height="135em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby"/>
 
 <br>
 <br>
