@@ -19,10 +19,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&size_weight=0.5&count_weight=0.5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&bg_color=00000000)
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,ts,py,nodejs,c,cpp,php,java,cpp,mysql,git,androidstudio,wordpress&theme=light)](https://skillicons.dev)
