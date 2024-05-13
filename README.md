@@ -32,9 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,nodejs,ts,py,c,cpp,git,wordpress&theme=dark)](https://skillicons.dev)
     
 </div>
-
-**Estudando**
-
+# Estudando
 
 [![My Skills](https://skillicons.dev/icons?i=cs,php,java,mysql&theme=dark)](https://skillicons.dev)
 
