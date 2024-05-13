@@ -27,6 +27,8 @@
 
   <h3 align="left">------------------------------------------------------------------------------------------------------------------------</h3>
 
+  <h3 align="left">Melhores tecnologias</h3>
+
 <div  align="center">   
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,nodejs,ts,py,c,cpp,git,wordpress&theme=dark)](https://skillicons.dev)
