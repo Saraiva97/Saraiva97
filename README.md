@@ -25,7 +25,7 @@
   
  </div>
 
-  <h1 align="center"> Melhores Tecnologias</h1>
+  <h1 align="left"> Melhores Tecnologias</h1>
 
 <div  align="center">   
 
