@@ -28,7 +28,7 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,javascript,html,cpp,cs,c,git,python,jquery&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,javascript,html,cpp,cs,c,git,py,jquery,mysql,php,ts,wordpress,bootstrap,androidstudio,sass&theme=light)](https://skillicons.dev)
 
 
 
