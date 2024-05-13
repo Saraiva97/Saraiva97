@@ -25,7 +25,7 @@
 <div  align="center"> 
   <div style="display: inline_block">
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=hml,s&theme=dark)](https://skillicons.dev)
 
     
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
