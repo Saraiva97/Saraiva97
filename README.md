@@ -13,7 +13,7 @@
 
 
 <img align="left" height="380em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie&langs_count=16&theme=great-gatsby"/>
-<img align="right" height="500em" alt="coding-time" src="https://github.com/Saraiva97/Saraiva97/assets/93497276/6b6eb9bd-78e8-4485-b0a2-291e6bcfcd8a">
+<img align="right" height="502em" alt="coding-time" src="https://github.com/Saraiva97/Saraiva97/assets/93497276/6b6eb9bd-78e8-4485-b0a2-291e6bcfcd8a">
 
 
 </div>
@@ -28,7 +28,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h2 align="left"> Melhores Tecnologias</h2>
+    <h2 align="left">-------------------------------------------------------------------</h2>
     
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
 
