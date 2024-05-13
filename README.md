@@ -35,7 +35,7 @@
 
 <div  align="left"> 
   <div style="display: inline_block"><br>
-    <h1 align="left">Estudando </h1>
+    <h2 align="left">Estudando </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,php,java,mysql&theme=dark)](https://skillicons.dev)
 
