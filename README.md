@@ -12,13 +12,13 @@
 <div style="display: flex">
 
 
-<img align="left" height="440em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie&langs_count=16&theme=great-gatsby"/>
+<img align="left" height="430em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie&langs_count=16&theme=great-gatsby"/>
 <img align="right" height="470em" alt="coding-time" src="https://github.com/Saraiva97/Saraiva97/assets/93497276/6b6eb9bd-78e8-4485-b0a2-291e6bcfcd8a">
 
 
 </div>
 
-<img align="left" height="155em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby"/>
+<img align="left" height="145em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby"/>
 
 <br>
 <br>
