@@ -19,15 +19,14 @@
 </div>
 <br>
 <img align="left" height="125em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby"/>
+<br>
 
   
 <div  align="center"> 
   <div style="display: inline_block">
-<br>
     
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
 
-   
    </div>
   
 
