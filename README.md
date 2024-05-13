@@ -18,7 +18,7 @@
 
 </div>
 
-  <img align="left" height="126em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="left" height="127em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
 <div  align="center"> 
   <div style="display: inline_block"> </div>
