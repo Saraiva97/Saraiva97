@@ -24,7 +24,7 @@
   
 <div  align="center"> 
   <div style="display: inline_block">
-    
+----------------------------------------------------------------------------------  
 [![My Skills](https://skillicons.dev/icons?i=html,cs&theme=dark)](https://skillicons.dev)
 
     
