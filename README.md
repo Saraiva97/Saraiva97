@@ -33,13 +33,12 @@
     
 </div>
 
-<div  align="left"> 
-  <div style="display: inline_block"><br>
-    <h2 align="left">Estudando </h2>
+# Estudando
+
 
 [![My Skills](https://skillicons.dev/icons?i=cs,php,java,mysql&theme=dark)](https://skillicons.dev)
 
-   </div>
+
 
  
  ![Snake animation](https://github.com/Saraiva97/Saraiva97/blob/output/github-contribution-grid-snake.svg)
