@@ -33,7 +33,7 @@
     
 </div>
 
-<div  align="center"> 
+<div  align="left"> 
   <div style="display: inline_block"><br>
     <h1 align="left">Estudando </h1>
 
