@@ -18,7 +18,7 @@
 
 </div>
 
-<img align="left" height="126em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby"/>
+<img align="left" height="127em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&theme=great-gatsby"/>
 <br>
 <br>
 <br>
@@ -29,7 +29,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h2 align="right"> melleores</h2>
+    <h2 align="center"> Melhores Tecnologias</h2>
     
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
 
