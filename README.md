@@ -12,7 +12,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie&langs_count=16&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats]()
