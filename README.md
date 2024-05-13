@@ -27,7 +27,8 @@
   
  </div>
 
- # Faaaala dev, Saraiva Aqui ✌!!!
+  <h1 align="center"> melhores tecnologias</h1>
+
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
 
