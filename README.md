@@ -4,7 +4,7 @@
 <div>
   
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Saraiva97&show_icons=true&bg_color=00000000"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie&langs_count=16&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 <br>
 
@@ -12,7 +12,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie&langs_count=16&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]()
 
 
 ![Anurag's GitHub stats]()
