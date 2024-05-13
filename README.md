@@ -13,7 +13,7 @@
 
 
 <img align="left" height="460em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie&langs_count=16&theme=great-gatsby"/>
-<img align="right" height="550em" alt="coding-time" src="https://github.com/Saraiva97/Saraiva97/assets/93497276/6b6eb9bd-78e8-4485-b0a2-291e6bcfcd8a">
+<img align="right" height="530em" alt="coding-time" src="https://github.com/Saraiva97/Saraiva97/assets/93497276/6b6eb9bd-78e8-4485-b0a2-291e6bcfcd8a">
 
 
 </div>
