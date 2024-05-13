@@ -28,7 +28,9 @@
   <h1 align="center"> Melhores Tecnologias</h1>
 
 <div  align="center">   
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,py,nodejs,c,cpp,git,androidstudio,wordpress&theme=dark)](https://skillicons.dev)
+    
 </div>
 
 <div  align="center"> 
