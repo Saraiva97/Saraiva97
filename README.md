@@ -9,7 +9,7 @@
   
 
 
-<div style="display: flex">
+<div style="display: block">
 
 
 <img align="left" height="376em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saraiva97&layout=pie&langs_count=16&theme=great-gatsby"/>
