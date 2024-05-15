@@ -29,7 +29,9 @@
 
 
 
-<div  align="center">   
+<div  align="left">  
+
+<h1>Linguagens,Frameworks,Ferramnetas</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,nodejs,ts,py,c,cpp,git,wordpress&theme=dark)](https://skillicons.dev)
     
@@ -40,8 +42,8 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,php,java,mysql&theme=dark)](https://skillicons.dev)
 
 
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
 
 
