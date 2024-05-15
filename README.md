@@ -41,13 +41,4 @@
 
 
 
- 
- ![Snake animation](https://github.com/Saraiva97/Saraiva97/blob/output/github-contribution-grid-snake.svg)
-
- 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,ts,py,nodejs,c,cpp,php,java,cpp,mysql,git,androidstudio,wordpress&theme=light)](https://skillicons.dev)
-
-
-👇
-
 
