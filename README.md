@@ -4,8 +4,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <h3 align="center"> Veja Meu Portifolio</h3>
-   <h2 align="center"> 👉https://saraiva97.github.io/Saraiva97portifiolio/ 👈</h2>
+    <h3 align="center" > VEJA MEU PORTIFOLIO</h3>
+   <h2 align="center"> 👉 https://saraiva97.github.io/Saraiva97portifiolio/ 👈</h2>
   </div>
 
 
@@ -24,9 +24,9 @@
 
 
 
-<div  align="left">  
+<div  align="center">  
 
-<h1 align="center"> 💻 Linguagens,Frameworks,Ferramnetas 💻</h1>
+<h1 align="center"> 💻 Linguagens Frameworks Ferramentas 💻</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,react,javascript,jquery,nodejs,ts,py,c,cpp,git,wordpress&theme=dark)](https://skillicons.dev)
     
